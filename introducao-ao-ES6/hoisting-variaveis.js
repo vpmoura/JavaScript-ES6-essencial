@@ -1,4 +1,4 @@
-//com variável
+ //Com variável
 const fn = () => {
   console.log(text);
 
@@ -8,7 +8,7 @@ const fn = () => {
 };
 fn();
 
-//com função
+//Com função
 const fn2 = () => {
   log('Hoisting de função');
 
